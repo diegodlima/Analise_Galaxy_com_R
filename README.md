@@ -5,7 +5,7 @@ A escolha destes aparelhos tem por objetivo contextualizar a necessidade de comp
 Inicialmente gostaria de esclarecer que a marca e modelos foram aleatoriamente escolhidos, sem intenção de expressar quaisquer opiniões a respeito.<br />
 Dito isto, é importante que o leitor se conscientize de que os dados coletados são apenas uma pequena amostra do conjunto exponencialmente maior de informações existentes a respeito dos produtos. Portanto, toda a análise realizada neste projeto deve ser endereçada somente para este conjunto de dados, e para o momento da coleta de dados, não generalizando assim o real posicionamento estratégico da empresa quanto aos produtos analisados em quaisquer outros momentos ou fontes.<br />
 <br />
-O relatório final com as análises pode ser verificado em://diegodlima.github.io/AdTracking_Fraud_Detection_with_R/
+O relatório final com as análises pode ser verificado em: https://diegodlima.github.io/Analise_Galaxy_com_R/
 <hr />
 
 <h3>Descrição de arquivos</h3>
