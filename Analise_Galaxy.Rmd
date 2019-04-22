@@ -527,7 +527,7 @@ Se aproximando assim da polaridade do Galaxy S10 conforme abaixo:<br />
 <br />
 
 # Considerações importantes:
-- Este projeto embora simples, demonstra o grande potencial da análise de sentimentos.<br /><br />
+- Este projeto embora simples, demonstra o grande potencial da análise de sentimentos.<br />
 - Para uma anáise mais aprimorada deveria haver coleta de diferentes fontes de dados e em diferentes períodos, o que enriqueceria a análise com um conjunto significativamente maior de informações.<br />
 - Também seria importante dar foco em palavras positivas para compreender os pontos fortes do produto, podendo assim trabalhar para maior conquista do público.<br />
 - Este tipo de análise no contexto de Negócio, é uma abordagem extremamente eficiente para compreender o posicionamento estratégico não só do produto, mas também da empresa, como por exemplo para a composição de uma matriz SWOT.<br />
