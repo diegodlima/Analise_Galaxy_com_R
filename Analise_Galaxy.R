@@ -1,31 +1,3 @@
-# Análise de Sentimentos de Aparelhos da Sansumg.
-# Este projeto tem como objetivo demonstrar a utilização da análise de sentimentos quando empregada
-# para planejamento estratégico.
-# A análise será realizada para compreender as polaridades referentes a dois aparelhos da Samsung:
-# Galaxy S10 e Galaxy Fold.
-# A escolha destes aparelhos tem por objetivo contextualizar a necessidade de compreender as
-# expectativas do público referente ao seu futuro lançamento (Galaxy Fold), tendo como parâmetro
-# de comparação o seu mais recente produto já lançado recentemente (Galaxy S10).
-# Inicialmente gostaria de esclarecer que a marca e modelos foram aleatoriamente escolhidos, sem 
-# intenção de expressar quaisquer opiniões a respeito.
-# Dito isto, é importante que o leitor se conscientize de que os dados coletados são apenas uma pequena
-# amostra do conjunto exponencialmente maior de informações existentes a respeito dos produtos. Portanto,
-# toda a análise realizada neste projeto deve ser endereçada somente para este conjunto de dados, e para o
-# momento da coleta de dados, não generalizando assim o real posicionamento estratégico da empresa
-# quanto aos produtos analisados em quaisquer outros momentos ou fontes.
-
-# Objetivo: analisar as expectativas de clientes referente ao Galaxy S10 e Galaxy Fold, para
-# sugerir tomadas de ações que resultem na melhora do posicionamento estratégico do Galaxy Fold,
-# abordando possíveis expectativas negativas a respeito do produto.
-# Justificativa: sendo o Galaxy S10 um produto já lançado de um modelo em sua maturidade, este
-# servirá incialmente como referência para definir as metas a se atingir para o Galaxy Fold.
-# Fonte de dados: Twitters em inglês.
-# Tamanho do conjunto de dados: 1000 tweets para cada produto.
-# Data de coleta dados: 16/04/19 aproximadamente às 16 horas.
-
-setwd("C:/FCD/BigDataRAzure/Mini-Projeto01/")
-getwd()
-
 # Carregando pacotes
 library(twitteR)
 library(RSQLite)
