@@ -15,10 +15,10 @@ library(gridExtra)
 source("utils.R")
 
 # Declarando chaves de autenticação no Twitter
-# api_key <- "FLo0jhX6d0rDl0SZgZbwhJzCU"
-# api_secret_key <- "ntivYsQaEnxH6Sgj4Xnjw0NCgLStXgQQ4hjzQSI1c7VlakvLI0"
-# access_token <- "1078265228918489088-7jIZN2P6Lc5DNraIsqYp4HB3MVnEsF"
-# access_token_secret <- "AmHXB1kFqtSQz7ToFrTGP8SAhZzlWY4a0JDRMCqJN9APG"
+# api_key <- ""
+# api_secret_key <- ""
+# access_token <- ""
+# access_token_secret <- ""
 
 # Autenticando
 # setup_twitter_oauth(api_key, api_secret_key, access_token, access_token_secret)
